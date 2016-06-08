@@ -1,0 +1,30 @@
+{
+  "name": "eslint-config-eversports",
+  "version": "1.0.0",
+  "description": "Eversports Code Style",
+  "private": true,
+  "contributors": [
+    {
+      "name": "Thomas Danecker",
+      "email": "thomas.danecker@eversports.com"
+    }
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eversport/eslint-config-eversports.git"
+  },
+  "author": "Eversport GmbH",
+  "bugs": {
+    "url": "https://github.com/eversport/eslint-config-eversports/issues"
+  },
+  "homepage": "https://github.com/eversport/eslint-config-eversports#readme",
+  "peerDependencies": {
+    "babel-eslint": "^6.0.4",
+    "eslint": "^2.9.0",
+    "eslint-config-standard": "^5.3.1",
+    "eslint-plugin-flowtype": "^2.2.7",
+    "eslint-plugin-promise": "^1.1.0",
+    "eslint-plugin-standard": "^1.3.2"
+  }
+}

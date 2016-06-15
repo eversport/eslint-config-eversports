@@ -2,7 +2,6 @@
   "name": "eslint-config-eversports",
   "version": "1.0.0",
   "description": "Eversports Code Style",
-  "private": true,
   "contributors": [
     {
       "name": "Thomas Danecker",

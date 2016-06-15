@@ -1,6 +1,6 @@
 {
-  "name": "@eversports/eslint-config-eversports",
-  "version": "1.0.1",
+  "name": "eslint-config-eversports",
+  "version": "1.0.0",
   "description": "Eversports Code Style",
   "contributors": [
     {

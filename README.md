@@ -15,7 +15,7 @@ See also the [Additional Rules](#additional-rules) below.
 Add this package to the devDependencies of your package.json. Choose the version you want to use (e.g. v1.0.0).
 
 ```
-npm install --save-dev @eversports/eslint-config-eversports
+npm install --save-dev eslint-config-eversports
 ```
 
 Then create a `.eslintrc.json` file with the following content:
